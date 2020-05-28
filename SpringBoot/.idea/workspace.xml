@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84e18545-2380-4683-90db-ab9768cef82f" name="Default" comment="" />
+    <list default="true" id="84e18545-2380-4683-90db-ab9768cef82f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/springboot_quick/src/main/java/com/itheima/controller/QuickController.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/springboot_quick/target/" />
@@ -678,12 +680,12 @@
       <workItem from="1589011483139" duration="2085000" />
       <workItem from="1589013673747" duration="1480000" />
       <workItem from="1589333438409" duration="600000" />
-      <workItem from="1590633752808" duration="4500000" />
+      <workItem from="1590633752808" duration="4906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11777000" />
+    <option name="totallyTimeSpent" value="12183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="690" y="150" width="1727" height="931" extended-state="0" />
@@ -731,6 +733,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/src/main/java/com/ithema" />
     </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
