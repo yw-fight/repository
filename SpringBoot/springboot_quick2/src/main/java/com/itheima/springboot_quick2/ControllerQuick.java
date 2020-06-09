@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 @RestController
 public class ControllerQuick {
-    @RequestMapping("/quick2")
+    @RequestMapping("/quick1")
     public  String quick(){
         return "springBoot 环境创建";
     }
